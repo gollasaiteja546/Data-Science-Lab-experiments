@@ -1,0 +1,4 @@
+title,review,rating,word_count,character_count,numeric_count,stopword_count,average_word_length
+Great Product,The product works very well.,5/5,5.0,28.0,0.0,2.0,4.6
+Good Quality,Good quality for the price.,4/5,5.0,27.0,0.0,2.0,4.4
+Average Product,The product is okay.,3/5,4.0,20.0,0.0,2.0,4.0
